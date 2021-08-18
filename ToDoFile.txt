@@ -1,0 +1,4 @@
+read,1
+homework,2
+sleep,1000
+eat,100
